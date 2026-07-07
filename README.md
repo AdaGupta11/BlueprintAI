@@ -92,7 +92,7 @@ BlueprintAI/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/BlueprintAI.git
+git clone https://github.com/AdaGupta11/BlueprintAI.git
 ```
 
 ## 2. Move into the Project Folder
