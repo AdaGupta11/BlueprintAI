@@ -6,7 +6,7 @@ Instead of spending hours researching markets, competitors, business models, and
 
 ---
 
-# 🌟 Features
+# Features
 
 - 🚀 AI-powered startup blueprint generation
 - 📊 Market analysis
@@ -21,7 +21,7 @@ Instead of spending hours researching markets, competitors, business models, and
 
 ---
 
-# 🛠️ Technology Stack
+#  Technology Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -33,7 +33,7 @@ Instead of spending hours researching markets, competitors, business models, and
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```text
                 User
@@ -59,7 +59,7 @@ Instead of spending hours researching markets, competitors, business models, and
 
 ---
 
-# ⚙️ How It Works
+#  How It Works
 
 1. Enter your startup details.
 2. Click **Generate Startup Blueprint**.
@@ -87,7 +87,7 @@ BlueprintAI/
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 ## 1. Clone the Repository
 
@@ -134,13 +134,13 @@ Add screenshots of the following:
 
 ---
 
-# 🔒 Security
+#  Security
 
 Sensitive credentials such as the IBM IAM API Key are stored securely using environment variables (`.env`) and are **not included** in the GitHub repository.
 
 ---
 
-# 🚀 Future Enhancements
+#  Future Enhancements
 
 - 📄 Export blueprint as PDF
 - 📑 Export blueprint as DOCX
@@ -152,7 +152,7 @@ Sensitive credentials such as the IBM IAM API Key are stored securely using envi
 
 ---
 
-# 👩‍💻 Developer
+#  Developer
 
 **Ada Gupta**
 
@@ -162,6 +162,6 @@ Built using **IBM Watson Orchestrate** and **Streamlit**.
 
 ---
 
-# 📄 License
+#  License
 
 This project has been developed for educational and learning purposes.
