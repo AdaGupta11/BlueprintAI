@@ -125,12 +125,17 @@ streamlit run app.py
 
 # 📸 Screenshots
 
-Add screenshots of the following:
+## 🏠 Home Page
 
-- 🏠 Home Page
-- 📝 Startup Input Form
-- 🚀 BlueprintAI Insights
-- 📄 Generated Startup Blueprint
+![Home Page](assets/homepage.png)
+
+## 📝 Startup Input Form
+
+![Startup Input Form](assets/input-form.png)
+
+## 🚀 Generated Startup Blueprint
+
+![Generated Startup Blueprint](assets/output.png)
 
 ---
 
