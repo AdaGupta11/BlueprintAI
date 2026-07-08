@@ -1,6 +1,7 @@
 # 🚀 BlueprintAI
 
 🔗 **Live Demo:** https://blueprintai-amvvuyedzdwhhknpeagft8.streamlit.app
+
 **BlueprintAI** is an AI-powered Startup Blueprint Generator that transforms startup ideas into comprehensive business plans using **IBM Watson Orchestrate**.
 
 Instead of spending hours researching markets, competitors, business models, and funding options, users simply enter their startup details and receive a complete AI-generated startup blueprint.
